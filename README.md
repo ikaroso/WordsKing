@@ -19,6 +19,14 @@ Want to find a practicable way for all the questions above.
 
 2.Calculate the words frequnecy for each data set and store them in different tables of a DB.
 
+3.(Need to do right now) Connect those tables to make a new table.
+
+   In this new table, all word are stored without repetation.
+   
+   And it is okay that some tuples have NULL value in some columns.
+   
+   Actually this is the difficlut part, i dont know how to do it now.
+
 
 
 |-----------------------------------------------------------------|
@@ -36,21 +44,15 @@ Want to find a practicable way for all the questions above.
 
 
 
-2.(Need to do right now) Connect those tables to make a new table.
-
-   In this new table, all word are stored without repetation.
-   
-   And it is okay that some tuples have NULL value in some columns.
-   
-   Actually this is the difficlut part, i dont know how to do it now.
 
 
 
-3.Find a algorithm that can combine all the frequency together to make evaluating the difficulty of a word possible.
+
+2.Find a algorithm that can combine all the frequency together to make evaluating the difficulty of a word possible.
 
 
 
-4.Given some words and generate a reasonable paragraph which contains all the given words.
+3.Given some words and generate a reasonable paragraph which contains all the given words.
 
 
 |--------------------------------------------------------------------------|
