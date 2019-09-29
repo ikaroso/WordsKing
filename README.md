@@ -11,7 +11,7 @@ Evaluate the vocabulary quantity of a person by implementing other's paper.
 Want to find a practicable way for all the questions above.
 
 
-/**********************Current Achievements*****************************/
+|----------------------Current Achievements--------------------|
 
 
 1.Find realated data like CET-4 and CET-6.
@@ -21,13 +21,13 @@ Want to find a practicable way for all the questions above.
 
 
 
-/***********************************************************************/
+|-----------------------------------------------------------------|
 
 
 
 
 
-/**********************To do List*****************************/
+|-------------------------------To do List-------------------------|
 
 1. Get rid of the dirty data (This can be done after i built the final DB).
 
@@ -50,5 +50,4 @@ Want to find a practicable way for all the questions above.
 4.Given some words and generate a reasonable paragraph which contains all the given words.
 
 
-
-/***********************************************************************/
+|--------------------------------------------------------------------------|
