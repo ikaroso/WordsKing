@@ -52,5 +52,6 @@ def DBquery():
 
 if __name__ == "__main__":
 
-    DBquery()
-
+    #DBquery()
+    #这个函数目前并没有写好
+    print('Not ok yet')
