@@ -27,6 +27,9 @@ Want to find a practicable way for all the questions above.
 
 
 
+
+
+
 |-------------------------------To do List-------------------------|
 
 1. Get rid of the dirty data (This can be done after i built the final DB).
