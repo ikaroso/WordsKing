@@ -54,5 +54,7 @@ Want to find a practicable way for all the questions above.
 
 3.Given some words and generate a reasonable paragraph which contains all the given words.
 
+4.Is it possible to make the combinations of tables in DB more automatically?
+
 
 |--------------------------------------------------------------------------|
